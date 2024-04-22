@@ -1,13 +1,12 @@
 # Martin testing with laravel
 - commands
-  
-`npm run dev`: run node front end (Vue.js)
-`php artisan serve`: run the laravel backend
-`php artisan make:command`: create new command app
-`php artisan app:init-database`: use custom made artisan command
-`php artisan optimize:clear`: clears caches
-`php artisan make:migration {tablename}`: create custom schema
-`php artisan migrate`: import databases
+- `npm run dev`: run node front end (Vue.js)
+- `php artisan serve`: run the laravel backend
+- `php artisan make:command`: create new command app
+- `php artisan app:init-database`: use custom made artisan command
+- `php artisan optimize:clear`: clears caches
+- `php artisan make:migration {tablename}`: create custom schema
+- `php artisan migrate`: import databases
 
 
 
