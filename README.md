@@ -1,3 +1,19 @@
+# Martin testing with laravel
+- commands
+  
+`npm run dev`: run node front end (Vue.js)
+`php artisan serve`: run the laravel backend
+`php artisan make:command`: create new command app
+`php artisan app:init-database`: use custom made artisan command
+`php artisan optimize:clear`: clears caches
+`php artisan make:migration {tablename}`: create custom schema
+`php artisan migrate`: import databases
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
